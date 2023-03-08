@@ -26,7 +26,7 @@ public class BookService {
         log.info("Fetching books from Google Books API");
         ResponseEntity<JsonNode> responseEntity = restTemplate.getForEntity(url, JsonNode.class);
         JsonNode rootNode = responseEntity.getBody();
-        if (rootNode == null) {
+        if (rootNode == null || rootNode.get("items") == null) {
             log.info("Received empty response from Google Books API");
         } else {
             JsonNode itemsNode = rootNode.get("items");
