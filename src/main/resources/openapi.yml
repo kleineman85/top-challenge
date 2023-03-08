@@ -1,0 +1,32 @@
+openapi: 3.0.0
+info:
+  title: TOP Challenge Book API
+  description: |
+    With the TOP Challenge Book API a user can search for books.
+  version: 1.0.0
+
+servers:
+  - url: http://localhost/v1
+
+paths:
+  /books:
+    get:
+      description: Returns a list of books
+      parameters:
+        - name: q
+          in: query
+          description: Search for books that contain this text string
+          required: true
+          schema:
+            type: string
+        - name: langRestrict
+          in: query
+          description: |
+            Restrict the search results to those with a certain language
+            by specifying langRestrict to a two-letter ISO-639-1 code, such as "en" or "nl".
+          required: false
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successful response
