@@ -2,8 +2,8 @@
 This is an API that makes it possible to do a text search for books by using the Google Books API.
 
 ## Installation
-After cloning the repository run mvn clean install from the root directory. 
-If you don't have Maven installed make use of Maven Wrapper in the root directory.
+Clone the repository and run mvn clean install from the root directory. 
+You can make use of Maven Wrapper (in the root directory) if you don't have Maven installed.
 #### On Unix
 ./mvnw clean install (on Unix)
 #### On Windows
@@ -11,6 +11,7 @@ mvnw.cmd clean install
 
 ## Usage
 ### Run the application
+Go to the target directory and run the application.
 #### On Unix
 java -jar top-challenge-0.0.1-SNAPSHOT.jar
 #### On Windows
