@@ -7,6 +7,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Locale;
 
@@ -15,14 +16,32 @@ import java.util.Locale;
  * Constructor is private because it should not be instantiated.
  */
 @Slf4j
-public final class VolumeInfoToBookMapper {
+public final class BookMapper {
 
-    private VolumeInfoToBookMapper() {
+    private BookMapper() {
+    }
+
+    public static List<Book> mapItemsNodeToBookList(JsonNode itemsNode) {
+        List<Book> bookList = new ArrayList<>();
+        log.info("Mapping response to an array of books");
+        itemsNode.forEach(item -> {
+            JsonNode volumeInfoNode = item.get("volumeInfo");
+            if (volumeInfoNode == null) {
+                log.info("Received empty volumeInfo");
+                return;
+            }
+            Book book = mapVolumeInfoNodeToBook(volumeInfoNode);
+            bookList.add(book);
+        });
+
+        return bookList;
     }
 
     public static Book mapVolumeInfoNodeToBook(JsonNode volumeInfoNode) {
+        String titel = getTitel(volumeInfoNode);
+        log.debug("Mapping VolumeInfo with title {} to Book", titel);
         return Book.builder()
-                .titel(getTitel(volumeInfoNode))
+                .titel(titel)
                 .auteurs(getAuteurs(volumeInfoNode))
                 .isbn(getIsbn(volumeInfoNode))
                 .publicatieDatum(getPublicatieDatum(volumeInfoNode))
@@ -30,11 +49,14 @@ public final class VolumeInfoToBookMapper {
     }
 
     private static String getTitel(JsonNode volumeInfoNode) {
-        return volumeInfoNode.get("title").asText().replace("\"", "");
+        return String.valueOf(volumeInfoNode.get("title")).replace("\"", "");
     }
 
     private static List<String> getAuteurs(JsonNode volumeInfoNode) {
         JsonNode authorsNode = volumeInfoNode.get("authors");
+        if(authorsNode == null) {
+            return Collections.emptyList();
+        }
         List<String> auteurList = new ArrayList<>();
 
         authorsNode.forEach(author -> auteurList.add(author.asText().replace("\"", "")));
@@ -44,6 +66,9 @@ public final class VolumeInfoToBookMapper {
 
     private static List<String> getIsbn(JsonNode volumeInfoNode) {
         JsonNode industryIdentifiersNode = volumeInfoNode.get("industryIdentifiers");
+        if (industryIdentifiersNode == null) {
+            return Collections.emptyList();
+        }
         List<String> isbnList = new ArrayList<>();
 
         industryIdentifiersNode.forEach(
@@ -58,6 +83,9 @@ public final class VolumeInfoToBookMapper {
 
     private static String getPublicatieDatum(JsonNode volumeInfoNode) {
         String publishedDateString = String.valueOf(volumeInfoNode.get("publishedDate")).replace("\"", "");
+        if(publishedDateString == null) {
+            return null;
+        }
         String publicatieDatumString;
 
         try {

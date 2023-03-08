@@ -20,28 +20,29 @@ public class BookService {
 
     public List<Book> getBookList(String query, String langRestrict) {
         validateParameters(query, langRestrict);
-        List<Book> bookList = new ArrayList<>();
         String url = getUrl(query, langRestrict);
+        List<Book> bookList = new ArrayList<>();
 
+        log.info("Fetching books from Google Books API");
         ResponseEntity<JsonNode> responseEntity = restTemplate.getForEntity(url, JsonNode.class);
-
-        // TODO refactor, check for NPE
         JsonNode rootNode = responseEntity.getBody();
-        JsonNode itemsNode = rootNode.get("items");
-
-        itemsNode.forEach( item -> {
-            JsonNode volumeInfoNode = item.get("volumeInfo");
-            Book book = VolumeInfoToBookMapper.mapVolumeInfoNodeToBook(volumeInfoNode);
-            bookList.add(book);
-        });
+        if (rootNode == null) {
+            log.info("Received empty response from Google Books API");
+        } else {
+            JsonNode itemsNode = rootNode.get("items");
+            log.info("Received response with {} items from Google Books API", itemsNode.size());
+            bookList = BookMapper.mapItemsNodeToBookList(itemsNode);
+        }
 
         return bookList;
-
     }
 
     private void validateParameters(String query, String langRestrict) {
+        if(query == null || query.isBlank()){
+            throw new IllegalArgumentException("Invalid query parameter q, should not be null or empty");
+        }
         if (langRestrict != null && !langRestrict.isBlank() && !langRestrict.matches("^\\w{2}$")) {
-            throw new IllegalArgumentException("Invalid langRestrict, should match ISO-639-1");
+            throw new IllegalArgumentException("Invalid query parameter langRestrict, should match ISO-639-1");
         }
     }
 

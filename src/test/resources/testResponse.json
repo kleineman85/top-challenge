@@ -1,0 +1,787 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 761,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3eM6zwEACAAJ",
+      "etag": "yKMLdYdpA8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3eM6zwEACAAJ",
+      "volumeInfo": {
+        "title": "The Automotive Alchemist",
+        "authors": [
+          "Andy Saunders"
+        ],
+        "publishedDate": "2023-02-19",
+        "description": "\"Andy Saunders' 'Automotive Alchemist' is a roller-coaster ride through the highs and lows of this charismatic man's life. From the early years of learning the basic skills of cutting and shaping metal then painting and airbrushing, to his mature creations, restorations and the inherent genius of his designs. Andy welcomes us into his workshop and his head: not afraid to express his emotions, as he deconstructs and then rebuilds each vehicle, he lays bare his motivations, inspirations, influences, and passions. Intertwined in the narrative is the work involved in the creation of 59 cars, described here with many detailed photographs.Twenty-seven of Andy's creations now reside in museums and private collections across the globe but the most unusual fate is that of Flat Out, the Guinness Book of Records acclaimed Lowest Car in the World, which is now a coffee table in the foyer of a huge Californian corporation.The book is not a technical 'how to create wild custom cars' manual. Rather it is a celebration of Andy's joy of creation and his design genius, though tempered by personal traumas and losses. He has, on many occasions, been referred to as the British George Barris, the American \"King of Kustomizers.\" Unlike many biographies, this book engages the reader with its honesty and humour.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1956309020"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781956309027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3eM6zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3eM6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=3eM6zwEACAAJ&dq=the%2520alchemist&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=3eM6zwEACAAJ&dq=the%2520alchemist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Automotive_Alchemist.html?hl=&id=3eM6zwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3eM6zwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Automotive Alchemist tells the story of Saunders&#39; charismatic life and work through an examination of sixty of his cars."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mad-EAAAQBAJ",
+      "etag": "BMsBXIPVhE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mad-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Alchemist of Riddle and Ruin",
+        "subtitle": "An Accidental Alchemist Mystery",
+        "authors": [
+          "Gigi Pandian"
+        ],
+        "publisher": "Gargoyle Girl Productions",
+        "publishedDate": "2022-08-30",
+        "description": "A riddle, a game, and a clue in the garden. Don’t miss the page-turning sixth book in the award-winning Accidental Alchemist Mystery Series, perfect for fans of cozy mysteries and urban fantasy. When Zoe Faust sees the ghost of a murdered young woman, is it really a spirit—or a flesh and blood woman who stopped aging because she’s a fellow alchemist? Sixteen years ago, high school student Ridley Price discovered a secret she planned to reveal through a party game—but someone killed her first. The baffling crime was never solved. Zoe’s friend Heather has always wondered: which of the seven guests at the party killed Ridley? When the newly-appeared ghost turns dangerous, threatening people they love, Zoe teams up with her gargoyle roommate Dorian to unmask the supposed specter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781938213199"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "193821319X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mad-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mad-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=Mad-EAAAQBAJ&pg=PP1&dq=the%2520alchemist&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Mad-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Mad-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.53,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.53,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Mad-EAAAQBAJ&rdid=book-Mad-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6530000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6530000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mad-EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A riddle, a game, and a clue in the garden."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ERx4EAAAQBAJ",
+      "etag": "jbJg0MPHCTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ERx4EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Alchemist's Agent Omnibus 1",
+        "subtitle": "The Gilty Party/Cursebird on a Wire",
+        "authors": [
+          "E.M. Burnham"
+        ],
+        "publisher": "E.M. Burnham",
+        "publishedDate": "2022-06-30",
+        "description": "Ibram Ucalegon is a private investigator in the strictest sense of the term. He only has one client: Lady Azadiya Hobon, the intelligent, poised, and beautiful alchemist who oversees the daily struggles of life in the alchemical village of Lityen, and he investigates whatever she tells him to. In a village crammed with foreign deities, potion pushers, and folk who can see through a man's skin straight to his bones, Ibram's the thoroughly mundane answer to every murky question. Together with his childhood friend, Ahksell Solari, alchemist and movable mountain, they tidy up the dark corners and murderous disputes of Lityen's population amidst the never-ending upheaval of merchants, adventurers, and displaced nobility seeking their fortunes. In The Gilty Party: Ibram thought he knew everything he needed to know about the death of Harken Tolk, but when the man who found him disappears before the inquest, Lady Azadiya has no choice but to reopen the investigation. Did Ibram sign off on a natural death, when the verdict should have been murder? Or is Rustam Monbrith hiding some other secret? In Cursebird On A Wire: Following a short period of unfortunate incarceration, Ibram buys his freedom by promising his jailer an introduction to Lady Azadiya. But on the day of the introductory gala, a cursebird flies in the face of everybody's plans. Can Lady Azadiya discover the culprit and save the party before Ibram trades in his smooth sailing for another hard landing? The Alchemist's Agent Omnibus 1 is a collection of two books in E.M. Burnham's standalone fantastical mystery series: The Alchemist's Agent. The books included are: The Gilty Party, the first book in the series, and Cursebird On A Wire, a prequel novella.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798986201511"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ERx4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ERx4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=ERx4EAAAQBAJ&pg=PP1&dq=the%2520alchemist&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ERx4EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ERx4EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ERx4EAAAQBAJ&rdid=book-ERx4EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ERx4EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The books included are: The Gilty Party, the first book in the series, and Cursebird On A Wire, a prequel novella."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v3FSzwEACAAJ",
+      "etag": "G0pQ5o2HUnU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v3FSzwEACAAJ",
+      "volumeInfo": {
+        "title": "The Alchemist of Riddle and Ruin",
+        "subtitle": "An Accidental Alchemist Mystery",
+        "authors": [
+          "Gigi Pandian"
+        ],
+        "publishedDate": "2022-08-30",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1938213203"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781938213205"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v3FSzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v3FSzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=v3FSzwEACAAJ&dq=the%2520alchemist&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=v3FSzwEACAAJ&dq=the%2520alchemist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Alchemist_of_Riddle_and_Ruin.html?hl=&id=v3FSzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v3FSzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A riddle, a game, and a clue in the garden."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-ehBEAAAQBAJ",
+      "etag": "cpA5F8myD1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-ehBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Alchemist's Handbook",
+        "subtitle": "A Practical Manual",
+        "authors": [
+          "Frater Albertus"
+        ],
+        "publisher": "Weiser Books",
+        "publishedDate": "2022-06-01",
+        "description": "“If you really want to learn the basic principles of practical alchemy, Frater Albertus’ Alchemist’s Handbook is literally is worth its weight in gold.”—from the foreword by Israel Regardie, author of The Golden Dawn: The Original Account of the Teachings, Rites, and Ceremonies of the Hermetic Order The Alchemist's Handbook has long been considered a modern-day classic on the actual practice of alchemy since its first publication in 1960. The book still stands as a groundbreaking work presenting in clear, concise language a practical manual of working knowledge that was formerly handed down only under oath of secrecy. The scope of alchemical work is to provide both a means to synthesize all the other sciences and the necessary training of the intellectual and spiritual faculties. “Hermetic philosophy, with its practical arcanum,” writes Frater Albertus, “repeats itself over and over again in the ancient axiom ‘As above, so below. As below, so above.’\" The Alchemist's Handbook discusses in detail: The basic fundamental principles of alchemy. A guide to the formation of an inexpensive home laboratory with illustrations of the necessary equipment. Step-by-step instructions for the work of the Lesser Circulation, the alchemical transformation within the plant kingdom. “The teachings of Frater Albertus are part of a lineage that traces back to Rosicrucian sources and much earlier and The Alchemist’s Handbook is still the best introduction to that lineage. If you feel the call of Alchemy and want real information on the subject, this is definitely the book you will want to read, reread, and read again. It may just turn out to be the book that changes your life.”—From the foreword by Robert Allen Bartlett, author of Real Alchemy: A Primer of Practical Alchemy First published by Weiser Books in 1974, this new Weiser Classics edition includes a new foreword by Robert Allen Bartlett, author of Real Alchemy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781633412477"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1633412474"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Body, Mind & Spirit"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-ehBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-ehBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=-ehBEAAAQBAJ&pg=PP1&dq=the%2520alchemist&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-ehBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-ehBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.39,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 13.57,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-ehBEAAAQBAJ&rdid=book--ehBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19390000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 13570000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Alchemist_s_Handbook-sample-epub.acsm?id=-ehBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Alchemist_s_Handbook-sample-pdf.acsm?id=-ehBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-ehBEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“If you really want to learn the basic principles of practical alchemy, Frater Albertus’ Alchemist’s Handbook is literally is worth its weight in gold.”—from the foreword by Israel Regardie, author of The Golden Dawn: The Original ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EEOfBQAAQBAJ",
+      "etag": "wCUk7/BNL8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EEOfBQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Alchemist",
+        "authors": [
+          "Говард Лавкрафт"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-29",
+        "description": "The story is recounted by the protagonist, Comte Antoine de C-, in the first person. Hundreds of years ago, Antoine's noble ancestor was responsible for the death of a dark wizard, Michel Mauvais. The wizard's son, Charles le Sorcier, swore revenge on not only him but all his descendants, cursing them to die on reaching the age of 32.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457668904"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457668908"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EEOfBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EEOfBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=EEOfBQAAQBAJ&pg=PP1&dq=the%2520alchemist&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=EEOfBQAAQBAJ&dq=the%2520alchemist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Alchemist.html?hl=&id=EEOfBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Alchemist-sample-epub.acsm?id=EEOfBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/The_Alchemist-sample-pdf.acsm?id=EEOfBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EEOfBQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The story is recounted by the protagonist, Comte Antoine de C-, in the first person."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ng5XzwEACAAJ",
+      "etag": "frb3uCaKbHo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ng5XzwEACAAJ",
+      "volumeInfo": {
+        "title": "A Witch, Her Cat and an Alchemist",
+        "authors": [
+          "Graham a Rhodes"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2022-08-12",
+        "description": "At the request of an old adversary, Agnes and Marmaduke set out on an adventure in Amsterdam to discover who has turned all Europe's gold bullion into lead.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798846246997"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ng5XzwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ng5XzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=ng5XzwEACAAJ&dq=the%2520alchemist&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=ng5XzwEACAAJ&dq=the%2520alchemist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Witch_Her_Cat_and_an_Alchemist.html?hl=&id=ng5XzwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ng5XzwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At the request of an old adversary, Agnes and Marmaduke set out on an adventure in Amsterdam to discover who has turned all Europe&#39;s gold bullion into lead."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YLavzgEACAAJ",
+      "etag": "I7pcIxK0Yvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YLavzgEACAAJ",
+      "volumeInfo": {
+        "title": "Fullmetal Alchemist: Under the Faraway Sky",
+        "subtitle": "Second Edition",
+        "authors": [
+          "Makoto Inoue"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2022-06-28",
+        "description": "Complete the Fullmetal experience with these best-selling novels featuring original stories. Somewhere between magic, art, and science exists a world of alchemy. And into this world travel Edward and Alphonse Elric—two brothers in search of the Philosopher’s Stone, the ultimate alchemical treasure! You've read the manga and seen the anime. Complete the Fullmetal experience with these best-selling novels featuring original stories. It’s only been a year since the Elric brothers set out on their journey to find the elusive Philosopher’s Stone. But a lot has happened in that short time. For one thing, Edward has become an official state alchemist. And as such, he often finds himself embroiled in one dangerous situation after another. Now, sidelined with a fever in a remote village, Edward comes face-to-face with a childhood friend. Even though he’s become a valuable member of his country’s military organization, Edward can’t help feeling a pang of jealousy during this unexpected reunion. While he and his brother are bound to their cruel fate, his friend is busy making his dreams come true. Once again Edward must wrestle with the consequences of his alchemically altered past. Also included in this volume is a heartwarming story featuring Roy Mustang, Maes Hughes, and Alex Louis Armstrong. The trio of alchemists takes a holiday in the woods and discover a mysterious village populated only with children.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1974725812"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781974725816"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YLavzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YLavzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=YLavzgEACAAJ&dq=the%2520alchemist&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=YLavzgEACAAJ&dq=the%2520alchemist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fullmetal_Alchemist_Under_the_Faraway_Sk.html?hl=&id=YLavzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YLavzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Once again Edward must wrestle with the consequences of his alchemically altered past. Also included in this volume is a heartwarming story featuring Roy Mustang, Maes Hughes, and Alex Louis Armstrong."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A4aDEAAAQBAJ",
+      "etag": "JKLncSHDAV0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A4aDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Alchemist's Daughter Collection - Book 1-3",
+        "subtitle": "Medieval Fantasy Romance",
+        "authors": [
+          "Emilie Jacobsen "
+        ],
+        "publisher": "Emilie Jacobsen",
+        "description": "The Alchemist's Daughter - Book 1 For her 15th birthday Hilda receives the Book of Silence from her father. This will enable her to make gold – if she can figure out the riddles in the book. All Hilda dreams of is to be a great alchemist like her father and work with him in creating the Philosopher's Stone. The 18-year-old countess Ellen has not been able to give her husband the much sought-after heir after three years of marriage. Desperate to fulfill her role as a wife she seeks out Hilda for help. The meeting starts a spark, that neither of them could have possibly imagined. After an accidental kiss at a court party, Ellen quickly leaves the capital for her country estate. Hilda rushes after her to apologize. To make amends to Ellen she promises to help her figure out how to conceive a child while posing as a maid at the estate. The two are determined not to act on the sparks between them – but it is easier said than done. The Alchemist's Daughter is the first book in the series by the same name. The Alchemist's Apprentice - Book 2 15-year old Isabella is certain that she is going to be the best alchemist the world has ever seen. In no time she is going to figure out how to make gold and, more importantly, the Philosopher's Stone. It all gets sidetracked when she is sent abroad as an apprentice to the alchemist, Martio. Martio would rather work on making medicine, leaving the job of making the King's gold to Isabella. It quickly becomes a tedious task, but all is forgotten when she meets the king's younger brother, Prince Phillippe. The two fall head over heels in love with each other - But there is one tiny problem. Philippe is already married, and his father-in-law threatens to start a war if he even so much as looks at another woman. The Alchemist's Apprentice is an independent continuation of The Alchemist's Daughter. We follow Hilda and Ellen's adopted daughter on her quest to solve the riddles in the Book of Silence as she figures out how to make the Philosopher's Stone. The Alchemist's Help - Book 3 17-year old Isabella has been saved from being burned as a witch, but just barely. Her legs are heavily burned, and she is unable to walk. All she wants to do is return home to her family, but with the King's soldiers looking for her, no money and without the use of her legs, she stands little chance of getting home any time soon. Beau is mourning the death of his best friend, prince Phillippe, Isabella's former lover. He feels that he needs to earn his place in the rebellion, and he thought that Isabella could be that way in, since she would be able to make gold for them. The other leaders of the rebellion however deem that it is too dangerous for Isabella to stay at the rebellion camp. Beau and Isabella take off on a dangerous journey through a country filled soldiers looking for them. On the way they both mourn the death of Philippe, argue who knew him best and slowly build a friendship. When they reunite six months later Beau finds that he has thought of little else but Isabella, since they departed. But how can he bring himself to fall in love with the woman his best friend intended to marry? Isabella on the other hand is determined never to fall in love again. She is however in search of a lover and Beau might be just right. The Alchemist's Help is the third book in the series The Alchemist's Daughter.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A4aDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A4aDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=A4aDEAAAQBAJ&dq=the%2520alchemist&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=A4aDEAAAQBAJ&dq=the%2520alchemist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Alchemist_s_Daughter_Collection_Book.html?hl=&id=A4aDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A4aDEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Alchemist&#39;s Daughter - Book 1 For her 15th birthday Hilda receives the Book of Silence from her father. This will enable her to make gold – if she can figure out the riddles in the book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "InBKEAAAQBAJ",
+      "etag": "aGkRBpVHaqQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/InBKEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Pritam Singh",
+        "subtitle": "The Alchemist Guru",
+        "authors": [
+          "Asha Bhandarker",
+          "Subrat Kumar"
+        ],
+        "publisher": "SAGE Publishing India",
+        "publishedDate": "2021-11",
+        "description": "This book is about the academic stalwart, Dr Pritam Singh, highlighting his unparalleled work in the area of management education.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789354792069"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9354792065"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 337,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=InBKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=InBKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.nl/books?id=InBKEAAAQBAJ&pg=PP1&dq=the%2520alchemist&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.nl/books?id=InBKEAAAQBAJ&dq=the%2520alchemist&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pritam_Singh.html?hl=&id=InBKEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.nl/books/download/Pritam_Singh-sample-pdf.acsm?id=InBKEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=InBKEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is about the academic stalwart, Dr Pritam Singh, highlighting his unparalleled work in the area of management education."
+      }
+    }
+  ]
+}

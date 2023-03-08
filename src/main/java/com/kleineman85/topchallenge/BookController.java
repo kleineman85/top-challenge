@@ -19,8 +19,8 @@ public class BookController {
     private final BookService bookService;
 
     @GetMapping
-    public ResponseEntity<List<Book>> getBooks(@RequestParam(name = "q", required = false) String query,
-                                         @RequestParam(name = "langRestrict", required = false) String langRestrict) {
+    public ResponseEntity<Object> getBooks(@RequestParam(name = "q", required = false) String query,
+                                           @RequestParam(name = "langRestrict", required = false) String langRestrict) {
         log.info("Received request with query params q={} and langRestrict={}", query, langRestrict);
 
         try {
@@ -29,14 +29,14 @@ public class BookController {
 
         } catch (IllegalArgumentException e) {
             log.info("Bad request: {}", e.getMessage());
-            return new ResponseEntity<>(HttpStatus.BAD_REQUEST);
+            return new ResponseEntity<>(e.getMessage(), HttpStatus.BAD_REQUEST);
 
         } catch (Exception e) {
             log.error("Exception: ", e);
-            return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
+            return new ResponseEntity<>("An error occured, for questions contact support@company.com", HttpStatus.INTERNAL_SERVER_ERROR);
 
         } finally {
-            log.info("Finished request");
+            log.info("Finished request and sending response");
 
         }
 
